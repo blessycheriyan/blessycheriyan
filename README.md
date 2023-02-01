@@ -87,5 +87,8 @@ I am a FullStack  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copatech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <i class="fas fa-file-pdf"></i>
-<a href="#" class="btn btn-default btn-xl">Download CV</a>
+<a href="bessycheriyan.com" class="btn btn-default btn-xl">Personal Website: </a>
+  <br>
+  <a href="https://bussinesssite-production.up.railway.app/" class="btn btn-default btn-xl">Recent Work: </a>
