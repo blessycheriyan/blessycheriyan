@@ -85,23 +85,7 @@ I am a FullStack  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
-
-
 ---
-
-<h3 align="left">My Stats:</h3><p>
-
-<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=copatech&show_icons=true&locale=en&layout=compact&theme=radical" alt="copatech" /></p>  --->
-
-<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=copatech&show_icons=true&locale=en&theme=radical" alt="copatech" /></p> --->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copatech&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=copatech&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copatech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <i class="fas fa-file-pdf"></i>
 <a href="#" class="btn btn-default btn-xl">Download CV</a>
